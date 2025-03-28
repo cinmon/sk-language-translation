@@ -1,0 +1,4 @@
+Translate this text to {{language}}:
+
+Text: {{input}}
+Translation: 
